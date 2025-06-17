@@ -1,6 +1,6 @@
 # 🩺 Disease Prediction Web App
 
-This is a Machine Learning-based **Disease Prediction Tool** built using **Streamlit**. It takes common health metrics as input and predicts the likelihood of diseases such as **Diabetes**, **Heart Disease**, or **No Disease** using a trained Random Forest model.
+This is a Machine Learning-based **Disease Prediction Tool** built using **Streamlit**. It takes common health metrics as input and predicts the likelihood of diseases such as **Diabetes**, **Heart Disease** or **No Disease** using a trained Random Forest model.
 
 ---
 
