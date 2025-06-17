@@ -14,6 +14,12 @@ This is a Machine Learning-based **Disease Prediction Tool** built using **Strea
 
 ---
 
+## 💻 Demo
+
+Live App: [Click here to use the app](https://diseasepredictionnabadiganta.streamlit.app/)  
+
+---
+
 ## 📁 Project Structure
 
 ```
